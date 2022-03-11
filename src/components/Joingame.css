@@ -1,0 +1,14 @@
+.Team-1{
+    display: flex;
+    width: 50%;
+    height: 100vh;
+    background-color: #686868;
+}
+.Team-2{
+    width: 50%;
+    height: 100vh;
+    background-color: #a34f4f;
+}
+.team-container{
+    display: flex;
+}
